@@ -121,7 +121,6 @@ static-page1/
 ├── vite.config.js
 └── README.md
 ```
-gi
 ---
 
 <p align="center">Made with ❤️ and ⚛️ React by <a href="https://github.com/navinrajaa2">Navin Rajaa</a></p>
